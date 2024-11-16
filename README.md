@@ -1,6 +1,5 @@
 ﻿# ML-Mini-Projects
-# Pallavi Shtgr's Machine Learning Mini Projects
-
+ 
 This repository showcases a variety of **mini projects** exploring different machine learning techniques and their applications. Each project is designed to demonstrate practical implementations and provide insights into core ML concepts.
 
 ## Projects Included
